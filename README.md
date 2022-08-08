@@ -1,2 +1,2 @@
-# landingpage
+# Landing Page
 Banding Page Basic
