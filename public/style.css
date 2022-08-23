@@ -3,6 +3,12 @@
     padding: 0;
     /* box-sizing: border-box */
 }
+.a {
+    text-decoration: none !important;
+    list-style: none !important;
+    color: white !important;
+
+}
 
 .btn-wsp{
     position:fixed;
@@ -34,7 +40,7 @@
 .nav{
     display: flex;
     justify-content: flex-end;
-    color: white;
+    color: white !important;
 }
 
 .logoPri{
@@ -116,7 +122,7 @@
     margin-top: -0.7vh;
     margin-right: 4.5vw;
     border-radius: 5px;
-    color: white;
+    color: white !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -135,7 +141,7 @@
     margin-top: -0.7vh;
     margin-right: 2vw;
     border-radius: 5px;
-    color: white;
+    color: white !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -154,7 +160,7 @@
     margin-top: -0.7vh;
     margin-right: 1vw;
     border-radius: 5px;
-    color: white;
+    color: white !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -173,7 +179,7 @@
     margin-top: -0.7vh;
     margin-right: 1vw;
     border-radius: 5px;
-    color: white;
+    color: white !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -192,7 +198,7 @@
     margin-top: -0.7vh;
     margin-right: 3vw;
     border-radius: 5px;
-    color: white;
+    color: white !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -226,7 +232,7 @@
     display: flex;
     padding-top: 20vh;
     padding-bottom: 6%;
-    width: 100%;
+    width: 100vw;
 }
 .leftS1{
     display: flex;
@@ -273,7 +279,7 @@
     /* display: flex; */
     padding-top: 20vh;
     padding-bottom: 0%;
-    width: 100%;
+    width: 100vw;
    
 }
 .rightS2{
@@ -571,7 +577,9 @@ p{
         background-color: #2C9CDB;
     }
 
-
+    .sect-m{
+        
+    }
     .text-m{
         background-color: #507CDD;
         color: white;
@@ -603,6 +611,7 @@ p{
         display: flex;
         padding-top: 20vh;
         padding-bottom: 6%;
+        width: 100vw;
     }
     .leftS1{
         display: flex;

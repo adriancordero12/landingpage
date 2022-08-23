@@ -1,0 +1,292 @@
+@media only screen and (max-width: 800px){
+    .sect-me{
+        background-color: #507CDD;
+        color: white;
+        /* height: 27vh; */
+        padding-bottom: 2vh;
+    }
+    .text-h2-me{
+        font-size: 2rem;
+        font-weight: bold;
+
+    }
+    .text-me{
+       
+        font-size: 1rem;
+       
+
+    }
+
+    .partner h3{
+        width: 60vw;
+        font-weight: bold;
+    }
+
+
+    .options-pay{
+        background-color: #F4F3F2;
+    }
+    .texto-option{
+        height: 45vh;
+        width: 90vw;
+        margin-bottom: 5vh;
+    }
+    .texto-top{
+        font-size: 2rem;
+        font-weight: 400;
+    }
+    .texto-down{
+        font-size: 1.1rem;
+        line-height: 30px;
+        margin-top: 5vh;
+        
+    }
+    .box-blanco{
+        width: 90vw;
+        height: 45vh;
+        background-color: white;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-radius: 5px;       
+        
+    }
+    .box-interno{
+        width: 75vw;
+
+    }
+    .box-interno h4{
+        margin-top: 2vh;
+    }
+    .box-interno p{
+        text-align: left;
+        color: #686868;
+    }
+    .sc-aliado{
+        background-color: #f8f8fc;
+
+    }
+    .sc-aliado h4{
+        font-size: 1.7rem;
+        font-weight: 500;
+        padding-top: 4vh;
+    }
+    .sc-aliado h5{
+        font-size: 1.4rem;
+        font-weight: 500;
+        color: #686868;
+        line-height: 30px;
+    }
+    .pasos-vender p{
+        text-align: left;
+        line-height: 20px;
+        margin-top: 2vh;
+        color: #686868;
+        font-size: 1.1rem;
+    }
+    .pasos-vender p b{
+        color: #507CDD;
+        font-weight: 400;
+    }
+    .options-bene{
+        background-color: #f1f5fd;
+    }
+   .texto-bene{
+        font-size: 2.2rem;
+        line-height: 40px;
+        padding: 5vh 2vw 1vh 2vw;
+        margin-bottom: 6vh;
+   }
+   .sc-integrantes{
+        background-color: #FFFFFF;
+   }
+   .sc-integrantes h3{
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-top: 3vh;
+   }
+   .sc-integrantes p{
+    color: #686868;
+    margin-top: 4vh;
+    font-size: 1.2rem;
+   }
+   .function-cliente{
+    background-color: #F1F1F2;
+    padding-bottom: 3vh;
+   }
+   .function-cliente-p{
+    width: 65vw;
+    font-size: 2rem;
+    text-align: left;
+    padding-top: 4vh;
+    
+
+   }
+   .box-blanco-p{
+    width: 75vw;
+    /* height: 15vh; */
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 5vh;
+    
+    
+    }
+    .box-blanco-p p{
+        padding: 2vh 1vw 1vh 0vw;
+    }
+    .bg-amarillo{
+        background-color: #F9AB09;
+        padding-bottom: 5vh;
+
+    }
+    .bg-amarillo p{
+        font-size: 2.1rem;
+        color: white;
+        text-align: left;
+        font-weight: 500;
+        padding: 5vh 7vw 3vh 10vw !important;
+        line-height: 40px;
+    }
+    .bg-amarillo-create{
+        background-color: #507CDD; 
+        width: 38vw;
+        height: 5.5vh;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-weight: 400;    
+        cursor: pointer;
+        font-size: 13px;
+        margin-left: 10vw;
+        
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 801px){
+
+.sc-bg-empresa{
+    background-image: url('../assets/headerG.jpg');
+    background-repeat: no-repeat;
+    height: 95vh;
+
+}
+.partner h3{
+    text-align: center;
+}
+
+.texto-top{
+    font-size: 2rem;
+    line-height: 40px;
+}
+.options-pay{
+    background-color: #F4F3F2;
+    /* border: 1px solid red; */
+    width: 100vw;
+}
+.texto-top{
+    margin-top: 30vh;
+    font-size: 2.5rem;
+}
+.texto-down{
+    margin-top: 5vh;
+    color: #686868;
+    line-height: 30px;
+}
+.options-pay-gratis{
+    background-color: #507CDD; 
+    width: 12vw;
+    height: 8vh;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 400;    
+    cursor: pointer;
+    font-size: 13px;
+    margin-top: 3vw;
+    margin-left: 1vw;
+    
+}
+.sc-options-pay{
+    padding-top: 20vh;
+}
+.box-blanco{
+    width: 25vw;
+    height: 55vh;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;  
+    padding: 1vh 2vw 1vh 2vw;    
+    
+}
+.box-interno p{
+    text-align: left;
+}
+.aliado-dm{
+    margin-left: 13vw;
+    margin-top: 12vh;
+}
+.aliado-dm h4{
+    font-size: 2.5rem;
+    width: 30vw;
+} 
+.aliado-dm h5{
+    margin-top: 5vh;
+    color: #686868;
+}
+.prepasos{
+    margin-left: 12vw !important;
+    margin-top: 8vh !important;
+}
+.pasos-vender p{
+    text-align: left;
+    color: #686868;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
